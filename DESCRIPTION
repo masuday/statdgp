@@ -1,11 +1,11 @@
 Package: statdgp
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Functions and data for a statistics class
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Yutaka Masuda
+Maintainer: Yutaka Masuda <no_email@example.com>
+Description: This package contains a collection of functions and data
+   particulary useful in a statistics class that I have.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
