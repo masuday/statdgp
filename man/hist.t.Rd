@@ -15,7 +15,7 @@ hist.t(x, df, breaks="Sturges")
 }
 \description{
 This function draws the histogram given samples with the probability density function of the t distribution on the same screen.
-The user gives the degree of freedom for t-distribution.
+   The user gives the degree of freedom for t-distribution.
 }
 \seealso{
 https://stackoverflow.com/questions/2309123/how-to-plot-histogram-and-pdf-together-in-r

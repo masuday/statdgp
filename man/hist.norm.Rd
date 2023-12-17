@@ -13,11 +13,11 @@ hist.norm(x, breaks="Sturges")
 }
 \description{
 This function draws the histogram given samples with the normal probability density function on the same screen.
-The PDF is estimated from the samples, i.e., 'mean(x)' and 'sd(x)'.
+   The PDF is estimated from the samples, i.e., 'mean(x)' and 'sd(x)'.
 }
 \examples{
-    x <- rnorm(1000,mean=50,sd=10)
-    hist.norm(x)
+   x <- rnorm(1000,mean=50,sd=10)
+   hist.norm(x)
 }
 \seealso{
 https://stackoverflow.com/questions/2309123/how-to-plot-histogram-and-pdf-together-in-r
